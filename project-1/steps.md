@@ -247,8 +247,8 @@ sudo rm /var/www/projectlamp/index.php
 
 After setting this up, you can go ahead to destroy the EC2 instance.
 
-However, since I aam using a free-tier instance, I'll just Stop the EC2 instance. This is because we can use 750 hours (31.25 days) of t2.micro server per month for the first 12 months FOR FREE. When you stop an instance – it stops consuming available hours.
+However, if you are using a free-tier instance, you can stop the EC2 instance. This is because you have access to 750 hours (31.25 days) of t2.micro server per month for the first 12 months FOR FREE. When you stop an instance – it stops consuming available hours.
 
 You can launch and stop new instances when you need to, but by default, there is a soft-limit of maximum 5 running instances at the same time. 
 
-But Note that every time you stop and start your EC2 instance – you will have a new IP address, it is a normal behavior, so do not forget to update your SSH credentials when you try to connect to your EC2 server.
+Please, Note that every time you stop and start your EC2 instance – you will have a new IP address, it is a normal behavior, so do not forget to update your SSH credentials when you try to connect to your EC2 server.
