@@ -1,4 +1,4 @@
-# <b>Steps taken for the project</b>
+# <b>Steps taken for the project's implementation</b>
 
 ## <b>1. Launching a Linux Instance On AWS:</b>
 

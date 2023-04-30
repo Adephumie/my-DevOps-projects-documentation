@@ -1,4 +1,4 @@
-# <b>Project 1- WEB STACK IMPLEMENTATION</b>
+# <b>Project 1- WEB STACK IMPLEMENTATION (LAMP STACK)</b>
 
 This project was carried out to explore and understand the different technology stacks involved in building a fully functional web application. These stacks are collectively called Web Stacks or Technology Stacks. It is defined as a set of frameworks and tools required to create and develop a well-functioning software product.
 
