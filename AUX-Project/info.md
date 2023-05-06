@@ -14,7 +14,9 @@ The `adduser` command on the other hand, is also used for creating users, howeve
 The  process of managing users and groups on Linux servers is termed `Identity and Access Management`.
 
 
+SideNote:
 
+`>/dev/null 2>&1` can be shortened to `&>/dev/null` in Bash.
 
 
 

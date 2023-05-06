@@ -4,6 +4,8 @@
 
 Create a shell script that reads a csv file containing the first name of the users to be onboarded.
 
+A comma-separated values (CSV) file is a delimited text file that uses a comma to separate values. A CSV file stores tabular data in plain text format. Each line of the file is a data record. You can use while shell loop to read comma-separated cvs file.
+
 1. Create the project folder called `users-script`:
    
    ```
