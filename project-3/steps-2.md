@@ -15,7 +15,7 @@
 
    Click on Create, you will be directed to page to create a Database User, the authentication method, and the password. make sure to save the password somewhere because you will need it later. You will also input the Network Access which can also be edited on the `Network Access` tab on the Left-hand side of the overview page. 
    
-   Then, you will allow access to the MongoDB database from anywhere, but it's usually not the best practice.
+   Then, I added access to my machine's IP address and the Public IP address of the Virtual Machine. However, you can allow access to the MongoDB database from anywhere, but it's usually not the best practice.
 
    Next, on the new page, Create a MongoDB database and collection inside mLab by clicking on the `Browse collection` tab:
 
